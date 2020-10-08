@@ -1,2 +1,2 @@
-# class31birdSmoke
-class31birdSmoke
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
